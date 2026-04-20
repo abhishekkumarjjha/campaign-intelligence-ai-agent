@@ -1,4 +1,4 @@
-# RAIN AI Campaign Intelligence Platform
+#Demo AI Campaign Intelligence Platform
 
 AI-powered mobile campaign analytics for banks and credit unions. Upload any campaign CSV — Claude automatically understands the data structure and generates dashboards, analysis, and client-ready reports.
 
